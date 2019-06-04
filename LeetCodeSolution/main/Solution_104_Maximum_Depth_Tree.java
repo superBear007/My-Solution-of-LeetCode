@@ -1,4 +1,4 @@
-package entity;
+import entity.TreeNode;
 
 public class Solution_104_Maximum_Depth_Tree {
     public int maxDepth(TreeNode root) {
